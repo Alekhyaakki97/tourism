@@ -1,0 +1,3 @@
+Login Details for admin : admin/admin
+Login Details for travel agency : travel/admin
+Login Details for user: (your Email)/admin
